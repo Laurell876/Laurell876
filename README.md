@@ -18,3 +18,7 @@
 - :tv: **webinge**: a site that uses ML models to determine the reventue of a movie before it even starts production
 
 - :robot: **github-discord-bot**: a bot built in python that allows users to maanage github repositories using a discord bot
+
+<p align="center">
+  <img height="300px" src="https://image.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg" />
+</p>
