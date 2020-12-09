@@ -20,6 +20,8 @@
 
 - :robot: **github-discord-bot**: a bot built in python that allows users to manage github repositories using a discord bot [Go to repository](https://github.com/MLH-Fellowship/github-discord-bot)
 
+- :iphone: **spot-me**: a mobile application that allows users to let others around them know when they need help with something and when others around them need help [Go to repository](https://github.com/MLH-Fellowship/spot_me)
+
 <p align="center">
   <img height="300px" src="https://image.freepik.com/free-vector/portrait-programmer-working-with-pc_23-2148217001.jpg" />
 </p>
