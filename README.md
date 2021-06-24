@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on open source projects in the MLH Fellowship
-- 🌱 I’m currently learning Python....yay
+- 🔭 I’m currently working as a fullstack developer at Orba Equity
+- 🌱 I’m currently learning DotNet Core
 - 📫 How to reach me: laurellseville2000@gmail.com
 - ⚡ Fun fact: JS > everything
 
