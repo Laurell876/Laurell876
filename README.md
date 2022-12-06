@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a fullstack developer at Orba Equity
-- 🌱 I’m currently learning Nestjs
 - 📫 How to reach me: laurellseville2000@gmail.com
 - ⚡ Fun fact: <del>JS</del> TS > everything
 
